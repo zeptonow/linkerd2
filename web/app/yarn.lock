@@ -7707,9 +7707,9 @@ node-forge@>=0.10.0:
   integrity sha512-6xKiQ+cph9KImrRh0VsjH2d8/GXA4FIMlgU4B757iI1ApvcyA9VlouP0yZJha01V+huImO+kKMU7ih+2+E14fw==
 
 node-gettext@^3.0.0:
-  version "3.0.0"
-  resolved "https://registry.yarnpkg.com/node-gettext/-/node-gettext-3.0.0.tgz#6b3a253309aa1e53164646c6c644fcddd0d45c58"
-  integrity sha512-/VRYibXmVoN6tnSAY2JWhNRhWYJ8Cd844jrZU/DwLVoI4vBI6ceYbd8i42sYZ9uOgDH3S7vslIKOWV/ZrT2YBA==
+  version "3.0.1"
+  resolved "https://registry.yarnpkg.com/node-gettext/-/node-gettext-3.0.1.tgz#29581bb75f5b4522b2a94da2ddf961756dde277c"
+  integrity sha512-foI20qQAV22OlCeFIUZiXZutPbe23nGuDp7hLvK6PanhOYlUJIgLAUZa4MB5pX0J62dubOM/MYVhQ2aYTUPbhA==
   dependencies:
     lodash.get "^4.4.2"
 
